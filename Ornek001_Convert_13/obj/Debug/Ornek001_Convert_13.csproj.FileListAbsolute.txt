@@ -1,0 +1,11 @@
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\bin\Debug\Ornek001_Convert_13.exe.config
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\bin\Debug\Ornek001_Convert_13.exe
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\bin\Debug\Ornek001_Convert_13.pdb
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.csproj.AssemblyReference.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.Form1.resources
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.Properties.Resources.resources
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.csproj.GenerateResource.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.exe
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.pdb
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek001_Convert_13\obj\Debug\Ornek001_Convert_13.exe.config

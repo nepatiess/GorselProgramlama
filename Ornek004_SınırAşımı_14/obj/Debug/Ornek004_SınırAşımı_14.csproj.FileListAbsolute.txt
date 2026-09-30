@@ -1,0 +1,11 @@
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\bin\Debug\Ornek004_SınırAşımı_14.exe.config
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\bin\Debug\Ornek004_SınırAşımı_14.exe
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\bin\Debug\Ornek004_SınırAşımı_14.pdb
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.csproj.AssemblyReference.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.Form1.resources
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.Properties.Resources.resources
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.csproj.GenerateResource.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.exe
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.pdb
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek004_SınırAşımı_14\obj\Debug\Ornek004_SınırAşımı_14.exe.config

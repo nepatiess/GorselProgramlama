@@ -1,0 +1,10 @@
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\bin\Debug\Ornek005_SayılarıYuvarlama_15.exe.config
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\bin\Debug\Ornek005_SayılarıYuvarlama_15.exe
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\bin\Debug\Ornek005_SayılarıYuvarlama_15.pdb
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\obj\Debug\Ornek005_SayılarıYuvarlama_15.csproj.AssemblyReference.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\obj\Debug\Ornek005_SayılarıYuvarlama_15.Form1.resources
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\obj\Debug\Ornek005_SayılarıYuvarlama_15.Properties.Resources.resources
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\obj\Debug\Ornek005_SayılarıYuvarlama_15.csproj.GenerateResource.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\obj\Debug\Ornek005_SayılarıYuvarlama_15.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\obj\Debug\Ornek005_SayılarıYuvarlama_15.exe
+C:\Users\zeyne\source\repos\Görsel Programlama\GörselProgramlama\Ornek005_SayılarıYuvarlama_15\obj\Debug\Ornek005_SayılarıYuvarlama_15.pdb

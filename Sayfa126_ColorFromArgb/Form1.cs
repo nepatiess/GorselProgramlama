@@ -1,0 +1,59 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Sayfa126_ColorFromArgb
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // renk değerleri en fazla 255 old. için numericUpDown kontrolünün değeri en fazla 255 olarak ayarlanır
+            numericUpDown1.Maximum = 255;
+            numericUpDown2.Maximum = 255;
+            numericUpDown3.Maximum = 255;
+        }
+
+        int red_deger, green_deger, blue_deger;
+        private void numericUpDown1_ValueChanged(object sender, EventArgs e)
+        {
+            //red
+            red_deger = Convert.ToInt16(numericUpDown1.Value);
+            green_deger = Convert.ToInt16(numericUpDown2.Value);
+            blue_deger = Convert.ToInt16(numericUpDown3.Value);
+
+            panel1.BackColor = Color.FromArgb(red_deger, green_deger, blue_deger);
+        }
+
+        private void numericUpDown2_ValueChanged(object sender, EventArgs e)
+        {
+            //green
+            red_deger = Convert.ToInt16(numericUpDown1.Value);
+            green_deger = Convert.ToInt16(numericUpDown2.Value);
+            blue_deger = Convert.ToInt16(numericUpDown3.Value);
+
+            panel1.BackColor = Color.FromArgb(red_deger, green_deger, blue_deger);
+        }
+
+        private void numericUpDown3_ValueChanged(object sender, EventArgs e)
+        {
+            //blue
+            red_deger = Convert.ToInt16(numericUpDown1.Value);
+            green_deger = Convert.ToInt16(numericUpDown2.Value);
+            blue_deger = Convert.ToInt16(numericUpDown3.Value);
+
+            panel1.BackColor = Color.FromArgb(red_deger, green_deger, blue_deger);
+        }
+    }
+}
